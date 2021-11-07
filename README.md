@@ -1,4 +1,4 @@
-# SPEAR-Language-Packs-staging
+# SPEAR-Language-Packs
 Language Packs for SPEAR-ASR and SPEAR-WakeUp are general-purpose language models that can be used for transcriptions, dictations and conversational AI. 
 
 If you need:
